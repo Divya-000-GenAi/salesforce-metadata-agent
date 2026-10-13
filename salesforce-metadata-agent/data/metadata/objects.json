@@ -1,0 +1,5 @@
+[
+  {"name": "Account", "type": "standard"},
+  {"name": "Case", "type": "standard"},
+  {"name": "Opportunity", "type": "standard"}
+]

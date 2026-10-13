@@ -1,0 +1,5 @@
+[
+  {"source": "Opportunity", "relationship": "RELATED_TO", "target": "Account"},
+  {"source": "Opportunity", "relationship": "HAS_CASE", "target": "Case"},
+  {"source": "Case", "relationship": "BELONGS_TO", "target": "Account"}
+]

@@ -1,0 +1,5 @@
+[
+  {"object": "Account", "field": "Name"},
+  {"object": "Case", "field": "Status"},
+  {"object": "Opportunity", "field": "StageName"}
+]
